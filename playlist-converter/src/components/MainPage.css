@@ -1,0 +1,56 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+    width: 400px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .result-container {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .result-container a {
+    color: #007bff;
+  }
+  
+  .developer-link {
+    margin-top: 30px;
+    font-size: 14px;
+  }
+  
+  .developer-link a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .developer-link a:hover {
+    text-decoration: underline;
+  }
+  
